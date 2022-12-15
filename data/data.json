@@ -1,0 +1,227 @@
+{
+    "Galaxies" : [
+        {
+            "id": 1,
+            "nome": "Andrômeda",
+            "resumo": "",
+            "imagem": "../public/img/andromeda.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "Andrômeda",
+                    "distancia": "2,54 milhões de anos-luz"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Galáxia Olho Negro",
+            "resumo": "",
+            "constelacao": "Coma Berenices",
+            "imagem": "../public/img/olhoNegro.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Galáxia de Bode",
+            "resumo": "",
+            "constelacao": "Ursa Major",
+            "imagem": "../public/img/Bode.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nome": "Galáxia Cartwheel",
+            "resumo": "",
+            "constelacao": "Sculptor",
+            "imagem": "../public/img/Cartwheel.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nome": "Galáxia Charuto",
+            "resumo": "",
+            "constelacao": "Ursa Major",
+            "imagem": "../public/img/Charuto.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "nome": "Galáxia do Cometa",
+            "resumo": "",
+            "constelacao": "Sculptor",
+            "imagem": "../public/img/Cometa.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "nome": "Cosmos Redshift 7",
+            "resumo": "",
+            "constelacao": "Sextans",
+            "imagem": "../public/img/CosmosRedshift7.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "nome": "Objeto de Hoag",
+            "resumo": "",
+            "constelacao": "Serpens Caput",
+            "imagem": "../public/img/ObjetoHoag.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "nome": "Grande Nuvem de Magalhães",
+            "resumo": "",
+            "constelacao": "Dorado/Mensa",
+            "imagem": "../public/img/GrandeNuvemMagalhaes.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "nome": "Pequena Nuvem de Magalhães",
+            "resumo": "",
+            "constelacao": "Tucana",
+            "imagem": "../public/img/PequenaNuvemMagalhaes.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "nome": "Objeto de Mayall",
+            "resumo": "",
+            "constelacao": "Ursa Major",
+            "imagem": "../public/img/ObjetoMayall.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "nome": "Galáxia do Cata-Vento",
+            "resumo": "",
+            "constelacao": "Ursa Major",
+            "imagem": "../public/img/Cata-Vento.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "nome": "Galáxia do Sombreiro",
+            "resumo": "",
+            "constelacao": "Virgo",
+            "imagem": "../public/img/Sombreiro.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "nome": "Galáxia do Girassol",
+            "resumo": "",
+            "constelacao": "Canes Venatici",
+            "imagem": "../public/img/Girassol.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "nome": "Galáxia Girino",
+            "resumo": "",
+            "constelacao": "Draco",            
+            "imagem": "../public/img/Girino.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "nome": "Galáxia do Rodamoinho",
+            "resumo": "",
+            "constelacao": "Canes Venatici",
+            "imagem": "../public/img/Rodamoinho.jpg",
+            "info": [
+                {
+                    "descricao": "",
+                    "constelacao": "",
+                    "distancia": ""
+                }
+            ]
+        }
+    ]
+}
