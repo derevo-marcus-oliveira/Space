@@ -3,225 +3,240 @@
         {
             "id": 1,
             "nome": "Andrômeda",
-            "resumo": "",
+            "resumo": "Andrômeda, abreviação de 'Galáxia de Andrômeda', recebe este nome a partir da área do céu em que aparece, a constelação de Andrômeda.",
             "imagem": "../public/img/andromeda.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "Andrômeda",
-                    "distancia": "2,54 milhões de anos-luz"
-                }
-            ]
+            "info": {
+                "descricao": "A galáxia de Andrômeda ou galáxia de Andrómeda(Messier 31, NGC 224) é uma galáxia espiral localizada a cerca de 2,54 milhões de anos-luz de distância da Terra, na direção da constelação de Andrômeda. É a galáxia espiral mais próxima da Via Láctea e seu nome é derivado da constelação onde está situada, que, por sua vez, tem o nome derivado da princesa mitológica Andrômeda. É a maior galáxia do Grupo Local, que também contém a Via Láctea, a galáxia do Triângulo e aproximadamente 30 outras menores. O levantamento feito pelo Telescópio Espacial Spitzer em 2006 determinou que sua massa é de aproximadamente ~0,8-1,5 × 1012 massas solares enquanto a Via Láctea tem uma massa estimada em 8,5 × 1011 massas solares. Sua população estelar atinge aproximadamente 1 trilhão de estrelas enquanto a Via Láctea conta com algo entre 200 a 400 bilhões de estrelas. / Com uma magnitude aparente de 3,4, é um dos objetos astronômicos mais brilhantes do catálogo de objetos do céu profundo do astrônomo francês Charles Messier, visível a olho nu na ausência da Lua. Possui entre 180 e 220 mil anos-luz de diâmetro e uma magnitude absoluta de -21,4",
+                "constelacao": "Andrômeda",
+                "distancia": "2,54 milhões de anos-luz",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 2,
             "nome": "Galáxia Olho Negro",
-            "resumo": "",
-            "constelacao": "Coma Berenices",
+            "resumo": "Ela tem uma faixa escura espetacular de observar, a poeira na frente do núcleo brilhante da galáxia, dando origem a seus apelidos do 'Olho Negro' e 'Olho Mau'",
             "imagem": "../public/img/olhoNegro.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Coma Berenices",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 3,
             "nome": "Galáxia de Bode",
-            "resumo": "",
-            "constelacao": "Ursa Major",
+            "resumo": "Nomeado pelo Johann Elert Bode, que descobriu esta galáxia em 1774.",
             "imagem": "../public/img/Bode.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Ursa Major",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 4,
             "nome": "Galáxia Cartwheel",
-            "resumo": "",
-            "constelacao": "Sculptor",
+            "resumo": "A sua aparência visual é semelhante a uma roda de carroça com raios.",
             "imagem": "../public/img/Cartwheel.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Sculptor",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 5,
             "nome": "Galáxia Charuto",
-            "resumo": "",
-            "constelacao": "Ursa Major",
+            "resumo": "A sua aparência visual é semelhante a um charuto.",
             "imagem": "../public/img/Charuto.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Ursa Major",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 6,
             "nome": "Galáxia do Cometa",
-            "resumo": "",
-            "constelacao": "Sculptor",
+            "resumo": "Esta galáxia é nomeado devido a aparência incomum, observado como um cometa.",
             "imagem": "../public/img/Cometa.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Sculptor",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 7,
             "nome": "Cosmos Redshift 7",
-            "resumo": "",
-            "constelacao": "Sextans",
+            "resumo": "O nome desta Galáxia baseia-se em uma medição de desvio para o vermelho (z) de cerca de 7 (na verdade, Z = 6.604)",
             "imagem": "../public/img/CosmosRedshift7.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Sextans",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 7,
             "nome": "Objeto de Hoag",
-            "resumo": "",
-            "constelacao": "Serpens Caput",
+            "resumo": "Nomeado pelo Arthur Hoag, que descobriu este objeto em 1950.",
             "imagem": "../public/img/ObjetoHoag.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Serpens Caput",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 8,
             "nome": "Grande Nuvem de Magalhães",
-            "resumo": "",
-            "constelacao": "Dorado/Mensa",
+            "resumo": "Nomeado pelo Ferdinand Magellan",
             "imagem": "../public/img/GrandeNuvemMagalhaes.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Dorado/Mensa",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 9,
             "nome": "Pequena Nuvem de Magalhães",
-            "resumo": "",
-            "constelacao": "Tucana",
+            "resumo": "Nomeado pelo Ferdinand Magellan",
             "imagem": "../public/img/PequenaNuvemMagalhaes.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Tucana",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 10,
             "nome": "Objeto de Mayall",
-            "resumo": "",
-            "constelacao": "Ursa Major",
+            "resumo": "Nomeado pelo Nicholas Mayall, do Observatório Lick, que a descobriu.",
             "imagem": "../public/img/ObjetoMayall.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Ursa Major",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }            
         },
         {
             "id": 11,
             "nome": "Galáxia do Cata-Vento",
-            "resumo": "",
-            "constelacao": "Ursa Major",
+            "resumo": "Semelhante em aparência a um cata-vento (brinquedo).",
             "imagem": "../public/img/Cata-Vento.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Ursa Major",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 12,
             "nome": "Galáxia do Sombreiro",
-            "resumo": "",
-            "constelacao": "Virgo",
+            "resumo": "Semelhante em aparência a um sombrero.",
             "imagem": "../public/img/Sombreiro.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Virgo",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 13,
             "nome": "Galáxia do Girassol",
-            "resumo": "",
-            "constelacao": "Canes Venatici",
+            "resumo": "Semelhante a um girassol",
             "imagem": "../public/img/Girassol.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Canes Venatici",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 14,
             "nome": "Galáxia Girino",
-            "resumo": "",
-            "constelacao": "Draco",            
+            "resumo": "O nome vem da semelhança da galáxia a um girino.",        
             "imagem": "../public/img/Girino.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Draco",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }
+            
         },
         {
             "id": 15,
             "nome": "Galáxia do Rodamoinho",
-            "resumo": "",
-            "constelacao": "Canes Venatici",
+            "resumo": "Dada a semelhança a um redemoinho esta galáxia é gravitacionalmente perturbada.",
             "imagem": "../public/img/Rodamoinho.jpg",
-            "info": [
-                {
-                    "descricao": "",
-                    "constelacao": "",
-                    "distancia": ""
-                }
-            ]
+            "info": {
+                "descricao": "",
+                "constelacao": "Canes Venatici",
+                "distancia": "",
+                "imagens" : [
+                     
+                ]
+            }            
         }
     ]
 }

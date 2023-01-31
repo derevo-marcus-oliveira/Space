@@ -14,7 +14,7 @@ function Galaxies() {
               <div className='card' key={index}>
                 <img src={dados.imagem} alt={dados.nome} />
                 <h1>{dados.nome}</h1>
-                <p>breve descrição, quando foi descoberta</p>
+                <p>{dados.resumo}</p>
                 <button>
                   <Link to={`/galaxies/${dados.id}`}>More</Link> 
                 </button>
