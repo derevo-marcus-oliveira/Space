@@ -7,12 +7,15 @@ function Header() {
   return (
     <div id="header">
       <nav className='menu'>
-        <ul>
+        <ul>           
             <li>
                 <Link to={"/galaxies"}>Galaxies</Link>
             </li>
             <li>
                 <Link to={"/starts"}>Starts</Link>
+            </li>
+            <li>
+                <Link to={"/"} id="return">Return</Link>
             </li>
             <li>
                 <Link to={"/planets"}>Planets</Link>

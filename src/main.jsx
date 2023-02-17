@@ -4,10 +4,12 @@ import ReactDOM from 'react-dom/client'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './index.css'
 
+
+
 //Rotas
 import App from './routers/App'
-import GalaxiaDetalhe from './routers/components/Galaxies/Detalhe/GalaxiaDetalhe'
-import Galaxies from './routers/components/Galaxies/Galaxies'
+import GalaxiaDetalhe,{ loader as galaxiesDetalheLoader } from './routers/components/Galaxies/Detalhe/GalaxiaDetalhe'
+import Galaxies, { loader as galaxiesLoader } from './routers/components/Galaxies/Galaxies'
 
 
 const router = createBrowserRouter([
@@ -17,10 +19,13 @@ const router = createBrowserRouter([
     children: [
       {
         path: "galaxies",
+        loader: galaxiesLoader,
         element: <Galaxies/>,
+
       },
       {
         path: "galaxies/:id",
+        loader: galaxiesDetalheLoader,
         element: <GalaxiaDetalhe/>,
       },
     ]

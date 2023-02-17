@@ -1,17 +1,25 @@
 
-import { useHref } from "react-router-dom";
+import { useHref, useLoaderData } from "react-router-dom";
 import Galaxias from "../../../../../data/data.json"
 import imagem from "../../../../../public/img/andromeda.jpg"
 
 import "./GalaxiaDetalhe.css"
 
+export async function loader() {
+  
+    const req = await fetch("http://localhost:3000/Galaxies");
+    const data = await req.json();
+    return data;
+  }
+  
 const GalaxiaDetalhe = () => {
     var url = useHref();
+    const data = useLoaderData();
     debugger
     return (
         <>        
             <div id="galaxieDetalhe">
-                {Galaxias.Galaxies.filter(p => p.id == parseInt(url.split('/')[2])).map((dados) => (
+                {data.filter(p => p.id == parseInt(url.split('/')[2])).map((dados) => (
                     <div className="galaxia" key={dados.id}>
                         {console.log(dados)}
                         <div className="titulo">
